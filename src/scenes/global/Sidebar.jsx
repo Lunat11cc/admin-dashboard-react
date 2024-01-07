@@ -115,7 +115,7 @@ const Sidebar = () => {
                         </Box>
                     )}
 
-                    <Box paddingLeft={isCollapsed ? undefined : "10%"}>
+                    <Box paddingLeft={isCollapsed ? undefined : "3%"}>
                         <Item
                             title="Главная"
                             to="/"
