@@ -1,5 +1,8 @@
 # Административная панель (React + Material UI + Data Grid)
 
+### 🌐 [Прототип](https://lunat1cc-admin-dashboard.netlify.app/)
+<br></br>
+
 ⚛ Страница "Главная"
 
 ![image](https://github.com/Lunat11cc/admin-dashboard-react/assets/107105044/9561939e-a52f-4180-b070-ee3a3f1a7ae9)
