@@ -1,4 +1,4 @@
-# Административная панель (React + Material UI + Data Grid)
+# 🔒 Административная панель (React + Material UI + Data Grid)
 
 ### 🌐 [Прототип](https://lunat1cc-admin-dashboard.netlify.app/)
 <br></br>
